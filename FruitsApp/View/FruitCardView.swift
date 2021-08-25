@@ -26,6 +26,7 @@ struct FruitCardView: View {
 					.multilineTextAlignment(.center)
 					.padding(.horizontal, 16)
 					.frame(maxWidth: 480)
+				StartButtonView()
 			}
 		}
 		.frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)

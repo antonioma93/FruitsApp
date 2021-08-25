@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D43C3A226D63F06009FD805 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D43C3A126D63F06009FD805 /* OnboardingView.swift */; };
 		4D88F56726D629CB008E118B /* FruitsAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D88F56626D629CB008E118B /* FruitsAppApp.swift */; };
 		4D88F56926D629CB008E118B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D88F56826D629CB008E118B /* ContentView.swift */; };
 		4D88F56B26D629CC008E118B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D88F56A26D629CC008E118B /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D43C3A126D63F06009FD805 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		4D88F56326D629CB008E118B /* FruitsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FruitsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D88F56626D629CB008E118B /* FruitsAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsAppApp.swift; sourceTree = "<group>"; };
 		4D88F56826D629CB008E118B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			children = (
 				4D88F56626D629CB008E118B /* FruitsAppApp.swift */,
 				4D88F56826D629CB008E118B /* ContentView.swift */,
+				4D43C3A126D63F06009FD805 /* OnboardingView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				4D88F57726D63287008E118B /* FruitCardView.swift in Sources */,
 				4D88F57926D638E2008E118B /* StartButtonView.swift in Sources */,
 				4D88F56926D629CB008E118B /* ContentView.swift in Sources */,
+				4D43C3A226D63F06009FD805 /* OnboardingView.swift in Sources */,
 				4D88F56726D629CB008E118B /* FruitsAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
